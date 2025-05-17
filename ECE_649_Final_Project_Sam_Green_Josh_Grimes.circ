@@ -782,11 +782,20 @@
     <comp lib="8" loc="(1585,1630)" name="Text">
       <a name="text" val="write_data"/>
     </comp>
+    <comp lib="8" loc="(1781,2298)" name="Text">
+      <a name="text" val="toggle auto-generation of the smiley face (should be toggled high when testing)"/>
+    </comp>
     <comp lib="8" loc="(1840,1970)" name="Text">
       <a name="text" val="clk_sig"/>
     </comp>
     <comp lib="8" loc="(1840,2010)" name="Text">
       <a name="text" val="rst_sig"/>
+    </comp>
+    <comp lib="8" loc="(1907,455)" name="Text">
+      <a name="text" val="16 registers"/>
+    </comp>
+    <comp lib="8" loc="(1928,2830)" name="Text">
+      <a name="text" val="led matrix for smiley face"/>
     </comp>
     <comp lib="8" loc="(2615,1030)" name="Text">
       <a name="font" val="SansSerif bold 10"/>
@@ -797,6 +806,9 @@
     </comp>
     <comp lib="8" loc="(2785,935)" name="Text">
       <a name="text" val="add/sub"/>
+    </comp>
+    <comp lib="8" loc="(2929,1291)" name="Text">
+      <a name="text" val="MUX to control write data of the registers"/>
     </comp>
     <comp lib="8" loc="(2965,115)" name="Text">
       <a name="text" val="register decoder set"/>
@@ -824,6 +836,12 @@
     </comp>
     <comp lib="8" loc="(605,1120)" name="Text">
       <a name="text" val="pc_offset"/>
+    </comp>
+    <comp lib="8" loc="(875,3006)" name="Text">
+      <a name="text" val="memory for lw, sw"/>
+    </comp>
+    <comp lib="8" loc="(911,540)" name="Text">
+      <a name="text" val="instructions stored in this ram"/>
     </comp>
     <comp lib="8" loc="(925,155)" name="Text">
       <a name="text" val="1: branch; 0: no-branch"/>
